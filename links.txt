@@ -1,0 +1,11 @@
+
+//vim
+	http://habrahabr.ru/post/224979/
+	http://habrahabr.ru/post/221267/
+	http://www.alexeyshmalko.com/2014/using-vim-as-c-cpp-ide/
+				
+// linux 
+	http://mylinuxprog.blogspot.com/2014/05/linux.html
+
+// TDD
+	http://habrahabr.ru/post/225929/
