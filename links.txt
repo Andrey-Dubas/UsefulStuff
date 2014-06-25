@@ -9,3 +9,6 @@
 
 // TDD
 	http://habrahabr.ru/post/225929/
+
+// quadrocopters
+	http://habrahabr.ru/post/227425/
