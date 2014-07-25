@@ -7,6 +7,7 @@
 // linux 
 	http://mylinuxprog.blogspot.com/2014/05/linux.html
 	http://habrahabr.ru/company/muk/blog/227457/ - topics to study debian
+	http://habrahabr.ru/post/78094/
 // TDD
 	http://habrahabr.ru/post/225929/
 
