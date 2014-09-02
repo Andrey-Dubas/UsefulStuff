@@ -14,4 +14,5 @@
 // quadrocopters
 	http://habrahabr.ru/post/227425/
 
- 
+// prog skills
+ https://www.codehunt.com/ - c#/java game 
